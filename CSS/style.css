@@ -1,0 +1,39 @@
+.container{
+    border: 3px solid black;
+    padding: 10px;
+}
+.container-fluid{
+    border: 3px solid red;
+    padding: 10px;
+}
+.col{
+    border: 2px solid blue;
+    /* padding: 15px; */
+    text-align: justify;
+}
+.col-8{
+    border: 2px solid blue;
+    /* padding: 15px; */
+    text-align: justify;
+    color: blue;
+    background-color: chartreuse;
+}
+.col-4{
+    border: 2px solid blue;
+    /* padding: 15px; */
+    text-align: justify;
+    color: crimson;
+    background-color: darkgrey;
+}
+.col-12{
+    border: 3px solid green;
+    text-align: justify;
+    color: honeydew;
+    background-color: hotpink;
+    /* background-image: url(/Image/kobi1.jpg); */
+}
+
+.col-6
+{
+    border: 2px solid green;
+}
